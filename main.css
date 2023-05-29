@@ -1099,13 +1099,13 @@ textarea.w-select {
     border-right-color: #5d6c7b;
     border-width: 4px;
     margin-left: -9px;
-    margin-top: -4px
+    /* margin-top: -4px */
 }
 
 .w-widget-twitter-count-shim:not(.w--vertical).w--large:before {
     border-width: 5px;
     margin-left: -10px;
-    margin-top: -5px
+    /* margin-top: -5px */
 }
 
 .w-widget-twitter-count-shim:not(.w--vertical):after {
@@ -1113,13 +1113,13 @@ textarea.w-select {
     border-right-color: #fff;
     border-width: 4px;
     margin-left: -8px;
-    margin-top: -4px
+    /* margin-top: -4px */
 }
 
 .w-widget-twitter-count-shim:not(.w--vertical).w--large:after {
     border-width: 5px;
     margin-left: -9px;
-    margin-top: -5px
+    /* margin-top: -5px */
 }
 
 .w-widget-twitter-count-shim.w--vertical {
@@ -1663,7 +1663,7 @@ textarea.w-select {
     box-sizing: border-box;
     width: 40px;
     height: 40px;
-    margin-top: -20px;
+    /* margin-top: -20px; */
     margin-left: -20px;
     border: 5px solid rgba(0, 0, 0, .4);
     border-radius: 50%;
@@ -4475,7 +4475,7 @@ figcaption {
 
 .contact_paragraph-wrapper {
     max-width: 40rem;
-    margin-top: -2.5rem;
+    /* margin-top: -2.5rem; */
     margin-left: auto
 }
 
