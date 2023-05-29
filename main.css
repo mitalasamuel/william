@@ -4474,7 +4474,7 @@ figcaption {
 }
 
 .contact_paragraph-wrapper {
-    max-width: 18rem;
+    max-width: 40rem;
     margin-top: -2.5rem;
     margin-left: auto
 }
@@ -5301,22 +5301,23 @@ figcaption {
     }
 
     .about_image-wrapper.is-1 {
-        width: 80%;
+        width: 100%;
         margin-left: auto
     }
 
     .about_image-wrapper.is-2 {
-        width: 40%;
+        width: 100%;
+        display: none;
         margin-right: auto
     }
 
     .about_image-wrapper.is-4 {
-        width: 35%;
+        width: 100%;
         margin-right: auto
     }
 
     .about_image-wrapper.is-5 {
-        width: 50%;
+        width: 100%;
         margin-top: -8rem;
         margin-left: auto
     }
